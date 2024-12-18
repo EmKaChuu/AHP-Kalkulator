@@ -17,8 +17,6 @@ Program do wspomagania decyzji metodą AHP (Analytic Hierarchy Process).
 - NumPy
 - tkinter (zazwyczaj dołączony do Pythona)
 
-## Instalacja
-
 
 ## Autor
 
